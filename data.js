@@ -90,13 +90,13 @@ var APP_DATA = {
           "yaw": -0.10995028275836205,
           "pitch": 0.3377685639918191,
           "title": "Hammock (võng)",
-          "text": "so sleepy"
+          "text": "<div class="sketchfab-embed-wrapper"> <iframe title="võng" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/eab719ae740e4b06b11669385269a013/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/vong-eab719ae740e4b06b11669385269a013?utm_medium=embed&utm_campaign=share-popup&utm_content=eab719ae740e4b06b11669385269a013" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> võng </a> by <a href="https://sketchfab.com/suzi_nguyen?utm_medium=embed&utm_campaign=share-popup&utm_content=eab719ae740e4b06b11669385269a013" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> suzi_nguyen </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=eab719ae740e4b06b11669385269a013" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>"
         },
         {
           "yaw": 0.21252121820967318,
           "pitch": 0.879108470238787,
           "title": "Rubber sandals",
-          "text": "Text"
+          "text": "<div class="sketchfab-embed-wrapper"> <iframe title="déppp" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/9929658fa9d54a61b1d3f8ff8366fc68/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/deppp-9929658fa9d54a61b1d3f8ff8366fc68?utm_medium=embed&utm_campaign=share-popup&utm_content=9929658fa9d54a61b1d3f8ff8366fc68" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> déppp </a> by <a href="https://sketchfab.com/suzi_nguyen?utm_medium=embed&utm_campaign=share-popup&utm_content=9929658fa9d54a61b1d3f8ff8366fc68" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> suzi_nguyen </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=9929658fa9d54a61b1d3f8ff8366fc68" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>"
         },
         {
           "yaw": 2.106606360388792,
@@ -155,7 +155,7 @@ var APP_DATA = {
           "yaw": 2.1912100535969294,
           "pitch": 0.4761050972039502,
           "title": "Hat",
-          "text": "Text"
+          "text": "<div class="sketchfab-embed-wrapper"> <iframe title="mũ" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/a287a8a921734962a67175fe47e38836/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/mu-a287a8a921734962a67175fe47e38836?utm_medium=embed&utm_campaign=share-popup&utm_content=a287a8a921734962a67175fe47e38836" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> mũ </a> by <a href="https://sketchfab.com/suzi_nguyen?utm_medium=embed&utm_campaign=share-popup&utm_content=a287a8a921734962a67175fe47e38836" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> suzi_nguyen </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=a287a8a921734962a67175fe47e38836" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>"
         },
         {
           "yaw": 1.7646987472236733,
